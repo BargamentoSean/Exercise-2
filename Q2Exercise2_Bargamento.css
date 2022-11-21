@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	color: white;
+}
+h1{
+	font-size: 50px;
+}
+i{
+	color: #efffa1;
+}
+.god{
+	color: #618bff;
+}
+.person{
+	color: #9dcc64;
+}
+.badword{
+	color: #8a5f5f;
+}
+.spar{
+	color: #e61c1c;
+}
+.no{
+	color: #ffff;
+}
